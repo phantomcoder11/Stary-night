@@ -13,14 +13,16 @@ body{
 }
 
 #txt1 {
-	font-size: 16px;
+	font-size: 26px;
 	text-align: center;
 	color: white;
+	font-family: 'Architects Daughter', cursive;
 }
 #txt2 {
-	font-size: 16px;
+	font-size: 26px;
 	text-align: center;
 	color: white;
+	font-family: 'Architects Daughter', cursive;
 }
 
 #content{
@@ -34,30 +36,32 @@ body{
 }
 
 #together{
-	font-size: 25px;
+	font-size: 29px;
 	text-align: center;
 	color: white;
+	font-family: 'Architects Daughter', cursive;
 }
 
 #timer{
 	text-align: center;
 	color: white;
+	font-family: 'Architects Daughter', cursive;
 }
 
 #d{
-	font-size: 19px;
+	font-size: 21px;
 }
 
 #h{
-	font-size: 19px;
+	font-size: 21px;
 }
 
 #m{
-	font-size: 19px;
+	font-size: 21px;
 }
 
 #s{
-	font-size: 19px;
+	font-size: 21px;
 }
 
 #heartTxt{
@@ -127,10 +131,12 @@ body{
 
 #Txt{
 	display: inline-block;
-	font-size: 17px;
+	font-size: 20px;
 	width: 100%;
 	text-align: center;
 	color: white;
+	
+font-family: 'EB Garamond', serif;
 }
 
 #tmp{
